@@ -460,9 +460,6 @@ function hmrAcceptRun(bundle, id) {
 
 },{}],"iWSTb":[function(require,module,exports) {
 var _styleCss = require("../css/style.css");
-setInterval((e)=>{
-    console.log('hello');
-}, 1000);
 
 },{"../css/style.css":"24ARt"}],"24ARt":[function() {},{}]},["dpcih","iWSTb"], "iWSTb", "parcelRequire5c22")
 

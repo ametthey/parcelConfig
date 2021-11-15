@@ -1,5 +1,11 @@
 {
     "name": "parcel-test",
+    "browserslist": [
+        "last 2 versions",
+        "> 0.5%",
+        "Firefox ESR",
+        "not dead"
+    ],
     "version": "1.0.0",
     "description": "",
     "scripts": {
